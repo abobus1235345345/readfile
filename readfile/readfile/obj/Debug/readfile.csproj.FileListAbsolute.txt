@@ -1,0 +1,15 @@
+H:\Новая папка\readfile\readfile\bin\Debug\readfile.exe.config
+H:\Новая папка\readfile\readfile\bin\Debug\readfile.exe
+H:\Новая папка\readfile\readfile\bin\Debug\readfile.pdb
+H:\Новая папка\readfile\readfile\obj\Debug\readfile.csproj.AssemblyReference.cache
+H:\Новая папка\readfile\readfile\obj\Debug\MainWindow.g.cs
+H:\Новая папка\readfile\readfile\obj\Debug\App.g.cs
+H:\Новая папка\readfile\readfile\obj\Debug\readfile_MarkupCompile.cache
+H:\Новая папка\readfile\readfile\obj\Debug\readfile_MarkupCompile.lref
+H:\Новая папка\readfile\readfile\obj\Debug\MainWindow.baml
+H:\Новая папка\readfile\readfile\obj\Debug\readfile.g.resources
+H:\Новая папка\readfile\readfile\obj\Debug\readfile.Properties.Resources.resources
+H:\Новая папка\readfile\readfile\obj\Debug\readfile.csproj.GenerateResource.cache
+H:\Новая папка\readfile\readfile\obj\Debug\readfile.csproj.CoreCompileInputs.cache
+H:\Новая папка\readfile\readfile\obj\Debug\readfile.exe
+H:\Новая папка\readfile\readfile\obj\Debug\readfile.pdb
